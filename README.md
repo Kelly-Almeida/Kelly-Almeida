@@ -8,7 +8,7 @@ Sou movida pela curiosidade e pelo desejo de aprender continuamente, acredito no
 </p>
 
 
-#### Linguagens e tecnologias
+## Linguagens e tecnologias
 
 <img  align="left" alt ="HTML" title="HTML" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -32,6 +32,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <br>
 
 ## 📊 Estatísticas
+
+
+
 
 <img align="left"  style="padding-right: 15px;"
 src="https://github-readme-stats.vercel.app/api?username=Kelly-Almeida&hide=contribs,prs&show_icons=true&theme=tokyonight&locale=pt-br" />
