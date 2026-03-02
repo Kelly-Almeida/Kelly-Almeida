@@ -1,9 +1,10 @@
 # Kelly Almeida
-*`Estundate programação`*
+*`Dev Back-end em formação`*
 
 <p>
-Tenho 19 anos e sou uma entusiasta do mundo da tecnologia e, principalmente, do desenvolvimento de software. Atualmente, estou aprimorando minhas habilidades no curso Técnico em Desenvolvimento de Sistemas pelo SENAC, onde aprendo a transformar ideias em soluções práticas de software.
-Sou movida pela curiosidade e pelo desejo de aprender continuamente. Acredito no poder da tecnologia para resolver problemas reais e estou sempre em busca de novos desafios e conhecimentos na área.
+Tenho 19 anos e sou uma entusiasta do mundo da tecnologia e, principalmente, do desenvolvimento de software. 
+Atualmente, estou aprimorando minhas habilidades no curso Técnico em Desenvolvimento de Sistemas no Senai e no Bacharelado em Ciência da Computação no Senac.
+Sou movida pela curiosidade e pelo desejo de aprender continuamente, acredito no poder da tecnologia para resolver problemas reais e estou sempre em busca de novos desafios e conhecimentos na área.
 </p>
 
 
@@ -11,16 +12,21 @@ Sou movida pela curiosidade e pelo desejo de aprender continuamente. Acredito no
 
 <img  align="left" alt ="HTML" title="HTML" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
 <img align="left" alt ="CSS" title="CSS" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  
+ <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+ <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-left: 15px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" style="padding-rigth:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-left: 15px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <br>
 <br>
