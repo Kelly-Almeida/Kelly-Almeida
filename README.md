@@ -37,11 +37,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 ## 📊 Estatísticas
 
-
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kelly-Almeida&hide=contribs,prs&show_icons=true&theme=tokyonight&locale=pt-br" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kelly-Almeida&theme=tokyonight&locale=pt-br" />
 
+## Redes de contato
 
-
+<a href="www.linkedin.com/in/Kelly-De-Almeida-Santos" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="30px"/>
+</a>
+&nbsp; &nbsp;
+<a href="mailto:kellydealmeidasanto237@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/6230/6230964.png" alt="Gmail" width="30px">
+</a>
