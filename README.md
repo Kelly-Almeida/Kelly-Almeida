@@ -2,10 +2,14 @@
 *`Dev Back-end em formação`*
 
 <p>
-Tenho 19 anos e sou uma entusiasta do mundo da tecnologia e, principalmente, do desenvolvimento de software. 
-Atualmente, estou aprimorando minhas habilidades no curso Técnico em Desenvolvimento de Sistemas no Senai e no Bacharelado em Ciência da Computação no Senac.
-Sou movida pela curiosidade e pelo desejo de aprender continuamente, acredito no poder da tecnologia para resolver problemas reais e estou sempre em busca de novos desafios e conhecimentos na área.
+Tenho 19 anos e uma entusiasta do mundo da tecnologia e, principalmente, do desenvolvimento de software. 
 </p>
+<ul>
+ <li>Estudante de Ciência da Computação no Senac;</li>
+ <li>Cursando Técnico em Desenvolvimento de Sistemas no Senai;</li>
+ <li>Grande curiosidade;</li>
+ <li>Desejo frequente pelo aprendisado e novos desafios.</li>
+</ul>
 
 
 ## Linguagens e tecnologias
@@ -35,11 +39,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kelly-Almeida&hide=contribs,prs&show_icons=true&theme=tokyonight&locale=pt-br" />
 
-<img align="left"  style="padding-right: 15px;"
-src="https://github-readme-stats.vercel.app/api?username=Kelly-Almeida&hide=contribs,prs&show_icons=true&theme=tokyonight&locale=pt-br" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kelly-Almeida&theme=tokyonight&locale=pt-br" />
 
-<img align="left"  style="padding-right: 15px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Almeida&theme=tokyonight&locale=pt-br" />
 
 
