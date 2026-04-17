@@ -2,7 +2,7 @@
 *`Dev Back-end em formação`*
 
 <p>
-Tenho 19 anos e sou uma entusiasta do mundo da tecnologia e, principalmente, do desenvolvimento de software.
+Tenho 20 anos e sou uma entusiasta do mundo da tecnologia e, principalmente, do desenvolvimento de software.
 </p>
 <ul>
  <li>Estudante de Ciência da Computação no Senac;</li>
