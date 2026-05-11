@@ -7,7 +7,7 @@ Tenho 20 anos e sou uma entusiasta do mundo da tecnologia e, principalmente, do 
 <ul>
  <li>Estudante de Ciência da Computação no Senac;</li>
  <li>Cursando Técnico em Desenvolvimento de Sistemas no Senai;</li>
- <li>Grande curiosidade;</li>
+ <li>Grande curiosidadeT;</li>
  <li>Desejo frequente pelo aprendisado e novos desafios.</li>
 </ul>
 
