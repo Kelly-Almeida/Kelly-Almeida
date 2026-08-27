@@ -32,7 +32,7 @@ Tenho 20 anos e sou estudante de **Ciência da Computação** no Senac Santo Ama
 </p>
 
 ---
-*/
+
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kelly-De-Almeida-Santos)
