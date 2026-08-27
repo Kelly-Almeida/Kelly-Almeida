@@ -24,16 +24,6 @@ Tenho 20 anos e sou estudante de **Ciência da Computação** no Senac Santo Ama
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :--- |
-| **Jogo da Velha** | Um jogo da velha simples em C | https://github.com/Kelly-Almeida/Desafios-C-SENAC |
-| **Site de pizzaria** | Um site de pizzaria feito puramente de HTML, CSS e JavaScript| https://github.com/Kelly-Almeida/Site-Pizzaria |
-| **Batalha Naval** | Feito puramente em Java é uma batalha naval que testa sua sorte | https://github.com/Kelly-Almeida/Testes-Java-Senai/blob/master/src/batalhaNaval.java |
-
----
-
 ## 📊 Estatísticas
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kelly-Almeida&theme=tokyonight&locale=pt-br" />
@@ -42,7 +32,7 @@ Tenho 20 anos e sou estudante de **Ciência da Computação** no Senac Santo Ama
 </p>
 
 ---
-
+*/
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kelly-De-Almeida-Santos)
